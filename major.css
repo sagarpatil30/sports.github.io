@@ -1,0 +1,60 @@
+body{
+  background-color: yellow;
+  background-size: 400px 800px;
+  text-align: right;
+  color: black;
+}
+
+p{
+  background-image: url('sc1.jpg');
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-color:honeydew;
+  padding: 50px;
+  margin-left: 70px;
+}
+h1
+{
+  text-align: left;
+  margin-left: 50px;
+  opacity: 30px;
+}
+h2{
+  text-align: left;
+  margin-left: 50px;
+}
+h3
+{
+  background-color: honeydew;
+  background-image: url('vk17.jpg');
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: 500px 400px;
+
+  padding: 50px;
+  margin-left: 70px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
